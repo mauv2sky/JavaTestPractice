@@ -1,4 +1,4 @@
-package com.example.javatestpractice.junit.tag;
+package com.example.javatestpractice.junit;
 
 import com.example.javatestpractice.domain.Study;
 import org.junit.jupiter.api.DisplayName;
